@@ -22,7 +22,7 @@ I used to hike", where the pronoun **where** modifies _the forest_.
 
 ## Part III - Remaining Challenges and Future Refinement
 
-...
+One significant issue is accurately disambiguating relative pronouns that serve multiple syntactic roles, such as "who" and "which," which can function as both subjects and objects. Additionally, ensuring correct agreement between the relative pronoun and its antecedent, particularly in complex sentences with nested clauses, remains difficult. Another challenge lies in effectively capturing the distinctions between defining and non-defining relative clauses, which are crucial for conveying precise meanings in translation and syntactic analysis. Addressing these challenges requires ongoing refinement of rule-based algorithms and context-sensitive parsing techniques.
 
 
 ## Contributions
